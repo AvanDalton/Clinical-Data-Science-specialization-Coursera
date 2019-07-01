@@ -8,5 +8,5 @@ If you are enrolled in any of the courses and browse this repo, please adhere to
 Code is shared under the GPL-3.0. Slides should not reproduced without permission, and are provided as read-only files.
 
 
-## Go to
-[Course 2: __Clinical data models and data quality assessments__ assignment](https://github.com/delunapaolo/Clinical-Data-Science-specialization-Coursera/blob/master/2.%20Clinical%20data%20models%20and%20data%20quality%20assessments.md)
+## Assignments
+[Course 2: __Clinical data models and data quality assessments__](https://github.com/delunapaolo/Clinical-Data-Science-specialization-Coursera/blob/master/2.%20Clinical%20data%20models%20and%20data%20quality%20assessments.md)
